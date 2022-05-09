@@ -2,7 +2,7 @@ package fr.dawan.constructeur;
 
 public class Utilisateur {
 
-	// creer un user 
+	// creer un user mode test
 	// variable d'instance = Instance.variable 
 	public String nom ;
 	public String prenom ;
